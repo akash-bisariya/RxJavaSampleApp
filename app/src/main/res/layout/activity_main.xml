@@ -4,8 +4,12 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+<<<<<<< HEAD
     tools:context="app.android.com.rxjavasampleapp.MainActivity">
 
+=======
+    tools:context="app.android.com.myrxjavaapplication.MainActivity">
+>>>>>>> 184d0af6893c201085a3f6af9708103206e69207
 
     <EditText
         android:layout_width="match_parent"
@@ -14,4 +18,8 @@
         android:hint="Search Here"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+<<<<<<< HEAD
+=======
+
+>>>>>>> 184d0af6893c201085a3f6af9708103206e69207
 </android.support.constraint.ConstraintLayout>
